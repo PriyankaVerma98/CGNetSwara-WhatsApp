@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:43:04.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="M0CddRo-Pr_J14qK9cI7" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:54:17.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="fvpDUeu-avNxx_xe5yW1" version="14.3.1" type="github">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,9 +170,10 @@
         </mxCell>
         <mxCell id="-XrDtkGbPhwZa2Y3Gsro-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1" source="-XrDtkGbPhwZa2Y3Gsro-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-350" y="400" as="targetPoint" />
+            <mxPoint x="-310" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-485" y="400" />
+              <mxPoint x="-485" y="340" />
+              <mxPoint x="-310" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
