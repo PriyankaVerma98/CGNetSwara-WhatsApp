@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T14:23:06.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="oafCDOkhfCTALLCTfmq4" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T14:35:51.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="YtlvJDkxpZkM9pCFCcyC" version="14.3.1" type="github">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,6 +52,9 @@
               <mxPoint x="25" y="120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-2" value="No reply rcvd in 12 hr" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1" source="-XrDtkGbPhwZa2Y3Gsro-5" target="-XrDtkGbPhwZa2Y3Gsro-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-9aC944TL7LtkfWMg8r-0" value="&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;to report this media.&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;to go to menu.&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;to&amp;nbsp;&amp;nbsp;chat with team.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="VXwVcR1VCdGhq1ZCbqeW-1">
           <mxGeometry x="-60" y="30" width="170" height="60" as="geometry" />
@@ -125,6 +128,50 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="90" as="sourcePoint" />
             <mxPoint x="610" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Thank you for sharing.&amp;nbsp;&lt;br&gt;Your submission Id is .... Please use for future reference to make edits to this submission.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="VXwVcR1VCdGhq1ZCbqeW-1">
+          <mxGeometry x="-700" y="20" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1" source="-XrDtkGbPhwZa2Y3Gsro-5" target="-XrDtkGbPhwZa2Y3Gsro-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-5" value="&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for sharing.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Reply with&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;story&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;grievance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;song&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;other&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="VXwVcR1VCdGhq1ZCbqeW-1">
+          <mxGeometry x="-370" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-7" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1" source="2-9aC944TL7LtkfWMg8r-0" target="-XrDtkGbPhwZa2Y3Gsro-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="60" as="sourcePoint" />
+            <mxPoint x="-512.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1" source="-XrDtkGbPhwZa2Y3Gsro-8" target="-XrDtkGbPhwZa2Y3Gsro-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-8" value="&lt;font style=&quot;font-size: 10px&quot;&gt;input is &amp;nbsp;4?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="VXwVcR1VCdGhq1ZCbqeW-1">
+          <mxGeometry x="-340" y="160" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Describe with brief text&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="VXwVcR1VCdGhq1ZCbqeW-1">
+          <mxGeometry x="-550" y="185" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-12" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1" source="-XrDtkGbPhwZa2Y3Gsro-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="150" as="sourcePoint" />
+            <mxPoint x="-620" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-620" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-13" value="Not rcvd in 12 hr" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-XrDtkGbPhwZa2Y3Gsro-12">
+          <mxGeometry x="0.3443" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-XrDtkGbPhwZa2Y3Gsro-14" value="No response in next 12 hours" style="endArrow=classic;html=1;" edge="1" parent="VXwVcR1VCdGhq1ZCbqeW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="20" as="sourcePoint" />
+            <mxPoint x="-620" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
