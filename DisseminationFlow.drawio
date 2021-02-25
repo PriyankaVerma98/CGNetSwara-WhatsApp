@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T10:26:41.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="olZTEH2cw6tJ7SUq_N9N" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-25T10:57:13.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="jzVc7TBEBhK3XyxGrN7a" version="14.4.3" type="github" pages="2">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
         <mxCell id="ILnbO-3U45fQJwzotn9N-0" />
         <mxCell id="ILnbO-3U45fQJwzotn9N-1" parent="ILnbO-3U45fQJwzotn9N-0" />
         <mxCell id="ILnbO-3U45fQJwzotn9N-2" value="User starts &lt;br&gt;interaction" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
-          <mxGeometry x="220" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-7" target="ILnbO-3U45fQJwzotn9N-11">
           <mxGeometry relative="1" as="geometry">
@@ -253,9 +253,9 @@
             <mxPoint x="17.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-7">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-7" target="ILnbO-3U45fQJwzotn9N-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="60" as="targetPoint" />
+            <mxPoint x="360" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ILnbO-3U45fQJwzotn9N-5">
@@ -320,8 +320,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H3s3RhAyVL8ljNLFH17G-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-14" target="H3s3RhAyVL8ljNLFH17G-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489.76470588235316" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3s3RhAyVL8ljNLFH17G-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H3s3RhAyVL8ljNLFH17G-0">
+          <mxGeometry x="-0.007" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-14" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Welcome to main menu of CGNet Swara WhatsApp. Press&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;to report something.&lt;br&gt;&lt;/li&gt;&lt;li&gt;to receive latest posts.&lt;br&gt;&lt;/li&gt;&lt;li&gt;to chat with our team.&lt;/li&gt;&lt;li&gt;to edit/ delete previously reported media.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
-          <mxGeometry x="370" width="240" height="160" as="geometry" />
+          <mxGeometry x="373" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-19" value="Here are the 5 latest posts....&lt;br&gt;Press 1 for more content.&amp;nbsp;&lt;br&gt;Press 2 for previous content (not for first 5 posts)&lt;br&gt;Press 0 to go back to main menu." style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
           <mxGeometry x="385" y="270" width="210" height="100" as="geometry" />
@@ -418,6 +428,15 @@
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-59" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;Thank you. Which of the following best describes your submission.&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press:&lt;/span&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;ol style=&quot;font-size: 8px&quot;&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;for story&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;for grievance&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;for song&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Press 4 if none of the above is suitable.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;br&gt;Press 0 to return back to main menu&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
           <mxGeometry x="-610" y="-10" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="H3s3RhAyVL8ljNLFH17G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="H3s3RhAyVL8ljNLFH17G-1" target="ILnbO-3U45fQJwzotn9N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3s3RhAyVL8ljNLFH17G-1" value="Please submit an audio or video that you want to broadcast." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
+          <mxGeometry x="400" y="-140" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3s3RhAyVL8ljNLFH17G-4" value="Side Note:&lt;br&gt;Not yet sure how deletion of and replying back to a message works through IMI" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
+          <mxGeometry x="340" y="480" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
