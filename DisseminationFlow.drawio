@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T08:09:51.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="NLXV4cVZQAAC3_Ydi8Z0" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-25T09:50:16.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="5UewCyFiCTl7bmRREh4I" version="14.4.3" type="github" pages="2">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -467,8 +467,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-58" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Thank you. Please contribute a title/ description by texting or recording an audio.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-58" target="ILnbO-3U45fQJwzotn9N-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILnbO-3U45fQJwzotn9N-61" value="capture input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ILnbO-3U45fQJwzotn9N-60">
+          <mxGeometry x="-0.1042" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILnbO-3U45fQJwzotn9N-58" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Thank you. Please suggest a title/ description by texting or recording an audio.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
           <mxGeometry x="-325" y="42.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ILnbO-3U45fQJwzotn9N-59" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Thank you. Please suggest a tag.&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for sharing.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Reply with&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;ol style=&quot;font-size: 8px&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;story&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;grievance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;song&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;other&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
+          <mxGeometry x="-620" y="-10" width="215" height="107.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
