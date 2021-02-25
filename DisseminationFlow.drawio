@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T10:23:20.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="evRC5tJF0SkDKY4tMOop" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-25T10:26:41.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="olZTEH2cw6tJ7SUq_N9N" version="14.4.3" type="github" pages="2">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,14 +310,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SejfubMkHep733Y2Z8n6-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SejfubMkHep733Y2Z8n6-1" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SejfubMkHep733Y2Z8n6-0">
+          <mxGeometry x="-0.1914" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-14" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Welcome to main menu of CGNet Swara WhatsApp. Press&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;to report something.&lt;br&gt;&lt;/li&gt;&lt;li&gt;to receive latest posts.&lt;br&gt;&lt;/li&gt;&lt;li&gt;to chat with our team.&lt;/li&gt;&lt;li&gt;to edit/ delete previously reported media.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
           <mxGeometry x="370" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-19" value="Here are the 5 latest posts....&lt;br&gt;Press 1 for more content.&amp;nbsp;&lt;br&gt;Press 2 for previous content (not for first 5 posts)&lt;br&gt;Press 0 to go back to main menu." style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
           <mxGeometry x="385" y="270" width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-20" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
-          <mxGeometry x="620" y="50" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-27" value="0" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" target="ILnbO-3U45fQJwzotn9N-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -410,7 +417,7 @@
           <mxGeometry x="-325" y="42.5" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-59" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;Thank you. Which of the following best describes your submission.&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press:&lt;/span&gt;&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;ol style=&quot;font-size: 8px&quot;&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;for story&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;for grievance&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;for song&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;Press 4 if none of the above is suitable.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;br&gt;Press 0 to return back to main menu&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
-          <mxGeometry x="-610" width="190" height="160" as="geometry" />
+          <mxGeometry x="-610" y="-10" width="190" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
