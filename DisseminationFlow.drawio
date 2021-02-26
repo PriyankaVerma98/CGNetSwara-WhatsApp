@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T05:56:41.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="NjkQenVdeBMKmiGxu-jb" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-26T06:05:38.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Vh1Ud4Id8uq-dxxVJl0p" version="14.4.3" type="github" pages="2">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2 DisseminationFlow" id="Egyei1QUp68N-HTectZD">
-    <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ILnbO-3U45fQJwzotn9N-0" />
         <mxCell id="ILnbO-3U45fQJwzotn9N-1" parent="ILnbO-3U45fQJwzotn9N-0" />
@@ -308,22 +308,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-14" value="Media file is sent again.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tY8pltBx8iJScnm7SV-W-13">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-14" value="Media file is sent again in 24 hr&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tY8pltBx8iJScnm7SV-W-13">
           <mxGeometry x="-0.3408" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-11" target="ILnbO-3U45fQJwzotn9N-2">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-11" target="tY8pltBx8iJScnm7SV-W-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="-150" as="targetPoint" />
+            <mxPoint x="-70" y="-80" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-67" y="-156" />
+              <mxPoint x="-68" y="-20" />
+              <mxPoint x="-70" y="-20" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tY8pltBx8iJScnm7SV-W-16" value="24 hr window expires" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tY8pltBx8iJScnm7SV-W-15">
           <mxGeometry x="-0.5053" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-35.41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-11" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for contributing content. Your&amp;nbsp;submission&amp;nbsp;id is ...&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 1 to optionally contribute a description or/and image for this audio. This will help to get the media&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;published&amp;nbsp;faster.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 2 to chat with our team.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
@@ -360,7 +361,7 @@
         <mxCell id="ILnbO-3U45fQJwzotn9N-14" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Welcome to main menu of CGNet Swara WhatsApp. Press&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;to report something.&lt;br&gt;&lt;/li&gt;&lt;li&gt;to receive latest posts.&lt;br&gt;&lt;/li&gt;&lt;li&gt;to chat with our team.&lt;/li&gt;&lt;li&gt;to delete previously reported media.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="373" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-19" value="Here are the 5 latest posts....&lt;br&gt;Press 1 for more content.&amp;nbsp;&lt;br&gt;Press 2 for previous content (not for first 5 posts)&lt;br&gt;Press 0 to go back to main menu." style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-19" value="Here are the 5 latest posts....&lt;br&gt;Press 1 for more content.&amp;nbsp;&lt;br&gt;Press 2 for previous content (not valid for first 5 posts)&lt;br&gt;Press 0 to go back to main menu." style="whiteSpace=wrap;html=1;rounded=1;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="385" y="270" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-27" value="0" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="ILnbO-3U45fQJwzotn9N-1" target="ILnbO-3U45fQJwzotn9N-14" edge="1">
@@ -492,6 +493,9 @@
         </mxCell>
         <mxCell id="tY8pltBx8iJScnm7SV-W-9" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;Ok! The requested submission has been removed from broadcast.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
           <mxGeometry x="980" y="52.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tY8pltBx8iJScnm7SV-W-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;session ends&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="ILnbO-3U45fQJwzotn9N-1">
+          <mxGeometry x="-130" y="-130" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
