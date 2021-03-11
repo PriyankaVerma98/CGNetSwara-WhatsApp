@@ -100,10 +100,3 @@ if __name__ == '__main__':
 				
 				with open(filename, 'wb') as f:
 					f.write(datatowrite)
-
-
-
-
-
-
-
