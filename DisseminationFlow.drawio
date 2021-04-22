@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T14:30:05.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="5tB4fRW8kPh89HRC9spH" version="14.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-22T14:34:13.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="-toBXxpmxXNGK41BFnde" version="14.5.3" type="github" pages="5">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1101,18 +1101,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="80twRb5nndwAULoNLsjE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="80twRb5nndwAULoNLsjE-1" source="80twRb5nndwAULoNLsjE-13">
+        <mxCell id="80twRb5nndwAULoNLsjE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="80twRb5nndwAULoNLsjE-1" source="80twRb5nndwAULoNLsjE-13" target="80twRb5nndwAULoNLsjE-44">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="480" />
-              <mxPoint x="400" y="480" />
+              <mxPoint x="320" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="80twRb5nndwAULoNLsjE-12" value="other text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80twRb5nndwAULoNLsjE-11">
+        <mxCell id="80twRb5nndwAULoNLsjE-12" value="other" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80twRb5nndwAULoNLsjE-11">
           <mxGeometry x="0.3053" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-72" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="80twRb5nndwAULoNLsjE-13" value="Message &lt;br&gt;type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="80twRb5nndwAULoNLsjE-1">
@@ -1134,7 +1133,7 @@
         </mxCell>
         <mxCell id="80twRb5nndwAULoNLsjE-16" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80twRb5nndwAULoNLsjE-15">
           <mxGeometry x="0.1964" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-77.7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="80twRb5nndwAULoNLsjE-21" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for sharing&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;your audio! I&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;t has been received by our moderators for broadcasting.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="80twRb5nndwAULoNLsjE-1">
@@ -1203,7 +1202,7 @@
         </mxCell>
         <mxCell id="80twRb5nndwAULoNLsjE-34" value="0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="80twRb5nndwAULoNLsjE-33">
           <mxGeometry x="0.0358" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-77" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="80twRb5nndwAULoNLsjE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="80twRb5nndwAULoNLsjE-1" source="80twRb5nndwAULoNLsjE-37" target="80twRb5nndwAULoNLsjE-13">
@@ -1218,8 +1217,8 @@
         <mxCell id="80twRb5nndwAULoNLsjE-43" value="&lt;ul&gt;&lt;li&gt;&lt;div class=&quot;page&quot; title=&quot;Page 55&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;lmroman10&amp;#34;&quot;&gt;Designing for multiple users/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;mediated usage&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;&amp;nbsp;scenarios&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;add setps sequence numbers&lt;/li&gt;&lt;li&gt;Value 3&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="80twRb5nndwAULoNLsjE-1">
           <mxGeometry x="710" y="830" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="80twRb5nndwAULoNLsjE-44" value="I&#39;m confused what is this text related to.&amp;nbsp;&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 1 to chat with out team.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="80twRb5nndwAULoNLsjE-1">
-          <mxGeometry x="400" y="430" width="220" height="100" as="geometry" />
+        <mxCell id="80twRb5nndwAULoNLsjE-44" value="Invalid input.&amp;nbsp;&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 1 to chat with out team.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="80twRb5nndwAULoNLsjE-1">
+          <mxGeometry x="409.75" y="240" width="190.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="80twRb5nndwAULoNLsjE-45" value="Tell features of this WA channel.&lt;br&gt;Tell YT features (share, like, search, subscribe)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="80twRb5nndwAULoNLsjE-1">
           <mxGeometry x="660" y="370" width="120" height="70" as="geometry" />
