@@ -1124,7 +1124,7 @@ else {$checked = '';} ?>
 <div class="submit">
 <?php
 if (allowed(1,$edit_id)) {
-echo "<input  class=\"save\" type=\"submit\" value=\"".bla("but_saveall")."\" />";
+echo "<input form=\"saveall_button\" class=\"save\" type=\"submit\" value=\"".bla("but_saveall")."\" />";
 }
 ?>
 </div>
@@ -1183,7 +1183,7 @@ for ($i = 0; $i < $settings['showlinks']; $i++) {
 
 <?php
 if (allowed(1,$edit_id)) {
-echo "<input class=\"save\" type=\"submit\" value=\"".bla("but_saveall")."\" />";
+echo "<input form=\"saveall_button\" class=\"save\" type=\"submit\" value=\"".bla("but_saveall")."\" />";
 }
 ?>
 </div>
@@ -1230,10 +1230,7 @@ echo "<p class=\"msg\">".bla("msg_noaudio")."</p>\n\n";
     if ($update_video) { echo "&amp;id=" . $update_id_video; }
      echo "\" enctype=\"multipart/form-data\" onSubmit=\"return saythis('".bla("alert_patience_video")."')\"></form>\n";
 
-    //  // form for video
-    // echo "<form id=\"upload-form3\" method=\"post\" action=\"index.php?page=record2&amp;do=browser_video";
-    // if ($update_video) { echo "&amp;id=" . $update_id_video; }
-    //  echo "\" enctype=\"multipart/form-data\" onSubmit=\"return saythis('".bla("alert_patience_video")."')\"></form>\n";
+    
 ?>
 
 
