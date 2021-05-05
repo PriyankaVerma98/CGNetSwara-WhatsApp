@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T10:40:49.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Y1jGmA0ChFAEP9xLvAH_" version="14.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-05T10:42:10.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="VAjUgVqhEWBWA9wvHpse" version="14.6.5" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -816,7 +816,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of 4 DisseminationFlow" id="DAgpInUEBNJOwX6agTtY">
-    <mxGraphModel dx="2225" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="H2Z0oP51JQnRN1V1gDq1-0" />
         <mxCell id="H2Z0oP51JQnRN1V1gDq1-1" parent="H2Z0oP51JQnRN1V1gDq1-0" />
@@ -1354,47 +1354,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="130" />
-              <mxPoint x="650" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-21" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-1KbD55P04BFA4XBvk4Q-20">
-          <mxGeometry x="-0.1583" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.806;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="597" y="40" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-23" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-1KbD55P04BFA4XBvk4Q-22">
-          <mxGeometry x="-0.1667" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.894;exitY=1.013;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-26" target="-1KbD55P04BFA4XBvk4Q-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="709" y="212" />
-              <mxPoint x="709" y="215" />
-              <mxPoint x="840" y="215" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-25" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-1KbD55P04BFA4XBvk4Q-24">
-          <mxGeometry x="-0.6207" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-26" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Welcome to main menu of CGNet Swara WhatsApp. &amp;nbsp;Choose from the following:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;- Please submit an audio/ image or video that you want to broadcast.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Enter a phone number to listen to stories from that user.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="414" y="60" width="227" height="120" as="geometry" />
         </mxCell>
@@ -1414,7 +1373,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-31" value="[Hindi Text]&lt;br&gt;Please submit an audio/ image or video that you want to broadcast." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="426.88" y="-70" width="186" height="80" as="geometry" />
+          <mxGeometry x="434.5" y="-70" width="186" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-51" target="-1KbD55P04BFA4XBvk4Q-48">
           <mxGeometry relative="1" as="geometry" />
@@ -1429,15 +1388,6 @@
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-33" value="&lt;ul&gt;&lt;li&gt;&lt;div class=&quot;page&quot; title=&quot;Page 55&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;lmroman10&amp;#34;&quot;&gt;Designing for multiple users/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;mediated usage&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;&amp;nbsp;scenarios&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;add setps sequence numbers&lt;/li&gt;&lt;li&gt;Value 3&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="710" y="830" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-35" value="Tell features of this WA channel.&lt;br&gt;Tell YT features (share, like, search, subscribe)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="840" y="180" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-36" value="send playlists for&lt;br&gt;Gondi, Madia and Peace survey reports&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="840" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-37" value="send IVR number&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-39" target="-1KbD55P04BFA4XBvk4Q-43">
           <mxGeometry relative="1" as="geometry" />
@@ -1495,9 +1445,6 @@
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-58" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;Send dramatised video for introduction.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="190" y="-300" width="190" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="600" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-60" value="Here&#39;s the status of stories submitted by you:&lt;br&gt;Videos: ....&lt;br&gt;Audios: ....&lt;br&gt;(5 most recent ones)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="160" y="-230" width="250" height="60" as="geometry" />
