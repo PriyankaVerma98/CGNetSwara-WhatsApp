@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T10:22:33.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="HbmMQnEkUbY0Mr2Rn9HS" version="14.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-05T10:24:22.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="ouHHrRt050gfevPxgiW3" version="14.6.5" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1404,11 +1404,11 @@
         <mxCell id="-1KbD55P04BFA4XBvk4Q-31" value="[Hindi Text]&lt;br&gt;Please submit an audio/ image or video that you want to broadcast." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="409.75" y="-70" width="186" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-32" target="-1KbD55P04BFA4XBvk4Q-48">
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-51" target="-1KbD55P04BFA4XBvk4Q-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-50" value="5 min window &lt;br&gt;expires" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-1KbD55P04BFA4XBvk4Q-49">
-          <mxGeometry x="0.05" relative="1" as="geometry">
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-53" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-1KbD55P04BFA4XBvk4Q-49">
+          <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1417,9 +1417,6 @@
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-33" value="&lt;ul&gt;&lt;li&gt;&lt;div class=&quot;page&quot; title=&quot;Page 55&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;lmroman10&amp;#34;&quot;&gt;Designing for multiple users/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;mediated usage&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;&amp;nbsp;scenarios&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;add setps sequence numbers&lt;/li&gt;&lt;li&gt;Value 3&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="710" y="830" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-34" value="Invalid input.&amp;nbsp;&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 1 to chat with out team.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="414" y="390" width="190.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-35" value="Tell features of this WA channel.&lt;br&gt;Tell YT features (share, like, search, subscribe)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="840" y="180" width="120" height="70" as="geometry" />
@@ -1456,7 +1453,24 @@
           <mxGeometry x="640.125" y="285" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-48" value="your image was not recorded because you did not send audio/ video." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="-250" y="410" width="110" height="70" as="geometry" />
+          <mxGeometry x="-340" y="410" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-54" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-51" target="-1KbD55P04BFA4XBvk4Q-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-51" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;5 min window&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;expires&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
+          <mxGeometry x="-170" y="405" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-32" target="-1KbD55P04BFA4XBvk4Q-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="445" as="sourcePoint" />
+            <mxPoint x="-230" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-55" value="Thanks for sharing &amp;nbsp;your story with image!&lt;br&gt;Press 0 to return to main menu." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
+          <mxGeometry x="-190" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
