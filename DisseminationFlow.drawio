@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T15:16:38.522Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="plqLvNng2o9O0YOeeySG" version="14.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-05T15:18:17.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="HN3fyTvFnji5vO3X3-6a" version="14.6.5" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1360,11 +1360,6 @@
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-17" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for sharing&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;your audio! I&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;t has been received by our moderators for broadcasting.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
           <mxGeometry x="-130" y="25" width="200" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="553" y="20" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-26" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Welcome to main menu of CGNet Swara WhatsApp. &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;You can invite your peers to listen to your stories by forwarding this link: Send app link&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Choose from the following:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;- Please submit an audio/ image or video that you want to broadcast.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Enter a phone number to listen to stories from that user.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
           <mxGeometry x="414" y="60" width="227" height="120" as="geometry" />
