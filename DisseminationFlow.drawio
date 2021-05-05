@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T10:45:39.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="eg95NbhHWLda0p0JXOWD" version="14.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-05T10:49:08.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="llFJmbZNTGO7cbng-8ET" version="14.6.5" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1385,9 +1385,6 @@
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-32" value="Sent the corresponding audio or video." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
           <mxGeometry x="-30" y="410" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-33" value="&lt;ul&gt;&lt;li&gt;&lt;div class=&quot;page&quot; title=&quot;Page 55&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;lmroman10&amp;#34;&quot;&gt;Designing for multiple users/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;mediated usage&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;lmroman10&amp;#34; ; font-size: 11pt&quot;&gt;&amp;nbsp;scenarios&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;add setps sequence numbers&lt;/li&gt;&lt;li&gt;Value 3&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
-          <mxGeometry x="710" y="830" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-39" target="-1KbD55P04BFA4XBvk4Q-43">
           <mxGeometry relative="1" as="geometry" />
