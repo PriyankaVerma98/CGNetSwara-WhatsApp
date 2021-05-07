@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T11:11:21.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="3Q8uNLJ5Du3ks673-Zjz" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-07T11:11:44.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="n5vp1k3DF5ugO9gxW3tW" version="14.6.10" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1290,7 +1290,7 @@
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;image&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-1KbD55P04BFA4XBvk4Q-9" vertex="1" connectable="0">
           <mxGeometry x="-0.3862" y="3" relative="1" as="geometry">
-            <mxPoint x="-93" y="225" as="offset" />
+            <mxPoint x="-93" y="214" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-13" edge="1">
@@ -1385,7 +1385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-32" value="Sent the corresponding audio or video." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
-          <mxGeometry x="-30" y="410" width="110" height="70" as="geometry" />
+          <mxGeometry x="-30" y="410" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nLuzdVZX56SfKNpvKJnf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-1KbD55P04BFA4XBvk4Q-1" source="-1KbD55P04BFA4XBvk4Q-43" target="nLuzdVZX56SfKNpvKJnf-0">
           <mxGeometry relative="1" as="geometry" />
@@ -1411,7 +1411,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-55" value="Thanks for sharing &amp;nbsp;your story with image!&lt;br&gt;Press 0 to return to main menu." style="rounded=1;whiteSpace=wrap;html=1;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
-          <mxGeometry x="-190" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="520" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-1KbD55P04BFA4XBvk4Q-56" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Welcome to main menu of CGNet Swara WhatsApp. &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;You can invite your peers to listen to your stories by forwarding this link: Send app link&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;Choose from the following:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;- Please submit an audio/ image or video that you want to broadcast.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Enter a phone number to listen to stories from that user.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
           <mxGeometry x="130" y="-160" width="267.5" height="130" as="geometry" />
