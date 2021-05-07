@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T11:11:44.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="n5vp1k3DF5ugO9gxW3tW" version="14.6.10" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-07T11:12:23.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="e8OXvn3imvVDBzO4ySB6" version="14.6.10" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1428,10 +1428,10 @@
         <mxCell id="-1KbD55P04BFA4XBvk4Q-60" value="Here&#39;s the status of stories submitted by you:&lt;br&gt;Videos: ....&lt;br&gt;Audios: ....&lt;br&gt;(5 most recent ones)" style="rounded=1;whiteSpace=wrap;html=1;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
           <mxGeometry x="138.75" y="-230" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-1KbD55P04BFA4XBvk4Q-63" value="Send &#39;k&#39; stories submitted by this number." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
-          <mxGeometry x="640.13" y="370" width="100.25" height="70" as="geometry" />
+        <mxCell id="-1KbD55P04BFA4XBvk4Q-63" value="Send 1 story submitted by this number." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
+          <mxGeometry x="620" y="360" width="100.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uYJzLkBmHEZiIUzFa2Wj-2" value="Send &#39;k&#39; stories submitted at this location." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
+        <mxCell id="uYJzLkBmHEZiIUzFa2Wj-2" value="Send 1 story submitted at this location." style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="-1KbD55P04BFA4XBvk4Q-1" vertex="1">
           <mxGeometry x="630" y="470" width="100.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nLuzdVZX56SfKNpvKJnf-0" value="input the phone number of story submitter." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="-1KbD55P04BFA4XBvk4Q-1">
