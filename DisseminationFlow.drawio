@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T10:34:54.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="0gEm5j9rIsufIqnJaXF2" version="14.6.11" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-15T10:42:11.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="JJHDjPiMvWBF42KV4QFF" version="14.6.11" type="github" pages="6">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-14" value="Media file is sent again in 24 hr&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tY8pltBx8iJScnm7SV-W-13" vertex="1" connectable="0">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Media file is sent again in 24 hr&amp;nbsp;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tY8pltBx8iJScnm7SV-W-13" vertex="1" connectable="0">
           <mxGeometry x="-0.3408" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -340,15 +340,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-16" value="24 hr window expires" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tY8pltBx8iJScnm7SV-W-15" vertex="1" connectable="0">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;24 hr window expires&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tY8pltBx8iJScnm7SV-W-15" vertex="1" connectable="0">
           <mxGeometry x="-0.5053" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="-35.41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-11" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for contributing content. Your&amp;nbsp;submission&amp;nbsp;id is ...&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 1 to optionally contribute more to help get the media&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;published&amp;nbsp;faster.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 2 to chat with our team.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-11" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Thank you for contributing content. Your&amp;nbsp;submission&amp;nbsp;id is ...&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Press 1 to optionally contribute more to help get the media&amp;nbsp;published&amp;nbsp;faster.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Press 2 to chat with our team.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="-130" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-14" target="ILnbO-3U45fQJwzotn9N-19" edge="1">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-14" target="ILnbO-3U45fQJwzotn9N-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dfi2-VsGaBoy25RC-L9R-1" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ILnbO-3U45fQJwzotn9N-13" vertex="1" connectable="0">
@@ -395,7 +395,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-29" value="no response in next 12 hr" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ILnbO-3U45fQJwzotn9N-28" vertex="1" connectable="0">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-29" value="&lt;font style=&quot;font-size: 12px&quot;&gt;no response in next 12 hr&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ILnbO-3U45fQJwzotn9N-28" vertex="1" connectable="0">
           <mxGeometry x="-0.0222" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -406,7 +406,7 @@
             <mxPoint x="-190" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-42" value="&lt;font style=&quot;font-size: 10px&quot;&gt;session ends&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-42" value="&lt;font style=&quot;font-size: 12px&quot;&gt;session ends&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="-652.5" y="205" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ahmWQgBZRhaX3qAUoeWT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ILnbO-3U45fQJwzotn9N-1" source="ILnbO-3U45fQJwzotn9N-52" target="ILnbO-3U45fQJwzotn9N-58" edge="1">
@@ -419,7 +419,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-52" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Thank you for contributing content. Your&amp;nbsp;submission&amp;nbsp;id is ...&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 1 to optionally contribute a description for this video. This will help to get the media&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;published&amp;nbsp;faster.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 2 to chat with out team.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="ILnbO-3U45fQJwzotn9N-52" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Thank you for contributing content. Your&amp;nbsp;submission&amp;nbsp;id is ...&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Press 1 to optionally contribute a description for this video. This will help to get the media&amp;nbsp;published&amp;nbsp;faster.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Press 2 to chat with out team.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="-150" y="190" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ILnbO-3U45fQJwzotn9N-56" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ILnbO-3U45fQJwzotn9N-1" target="ILnbO-3U45fQJwzotn9N-14" edge="1">
@@ -445,8 +445,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILnbO-3U45fQJwzotn9N-58" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Thank you.&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Please submit a description by texting or recording audio.&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Press 0 to return back to main menu.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;align=left;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
-          <mxGeometry x="-340" y="220" width="140" height="90" as="geometry" />
+        <mxCell id="ILnbO-3U45fQJwzotn9N-58" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Thank you.&lt;br&gt;Please submit a description by texting or recording audio.&amp;nbsp;&lt;br&gt;Press 0 to return back to main menu.&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;align=left;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+          <mxGeometry x="-340" y="220" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H3s3RhAyVL8ljNLFH17G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ILnbO-3U45fQJwzotn9N-1" source="H3s3RhAyVL8ljNLFH17G-1" target="ILnbO-3U45fQJwzotn9N-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -464,39 +464,40 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-0" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Thank you.&lt;br&gt;Please send one associated image and/ or&amp;nbsp;submit a description by texting or recording audio.&amp;nbsp;&lt;br&gt;Press 0 to return back to main menu.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;align=left;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
-          <mxGeometry x="-350" y="10" width="150" height="100" as="geometry" />
+        <mxCell id="tY8pltBx8iJScnm7SV-W-0" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Thank you.&lt;br&gt;Please send one associated image and/ or&amp;nbsp;submit a description by texting or recording audio.&amp;nbsp;&lt;br&gt;Press 0 to return back to main menu.&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;align=left;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+          <mxGeometry x="-350" y="-20" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ILnbO-3U45fQJwzotn9N-1" source="tY8pltBx8iJScnm7SV-W-2" target="tY8pltBx8iJScnm7SV-W-9" edge="1">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ILnbO-3U45fQJwzotn9N-1" source="tY8pltBx8iJScnm7SV-W-2" target="tY8pltBx8iJScnm7SV-W-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-11" value="input is subm. id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tY8pltBx8iJScnm7SV-W-10" vertex="1" connectable="0">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;input is subm. id&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tY8pltBx8iJScnm7SV-W-10" vertex="1" connectable="0">
           <mxGeometry x="0.025" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-2" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;Please send the submission id. Caution! the previously submitted media will be deleted.&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px ; text-align: left&quot;&gt;&lt;br&gt;Press 0 to return back to main menu&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Please send the submission id. Caution! the previously submitted media will be deleted.&amp;nbsp;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;Press 0 to return back to main menu&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="680" y="37.5" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Reminder msg&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Reminder msg&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="-660" y="120" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="ILnbO-3U45fQJwzotn9N-1" target="ILnbO-3U45fQJwzotn9N-14" edge="1">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.45;exitY=1.055;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ILnbO-3U45fQJwzotn9N-1" target="ILnbO-3U45fQJwzotn9N-14" edge="1" source="tY8pltBx8iJScnm7SV-W-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="-260" as="targetPoint" />
             <mxPoint x="1030" y="50" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1030" y="-50" />
-              <mxPoint x="613" y="-50" />
+              <mxPoint x="764" y="290" />
+              <mxPoint x="660" y="290" />
+              <mxPoint x="660" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-9" value="&lt;font&gt;&lt;font size=&quot;1&quot;&gt;Ok! The requested submission has been removed from broadcast.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
-          <mxGeometry x="980" y="45" width="120" height="55" as="geometry" />
+        <mxCell id="tY8pltBx8iJScnm7SV-W-9" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Ok! The requested submission has been removed from broadcast.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+          <mxGeometry x="710" y="205" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="tY8pltBx8iJScnm7SV-W-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;session ends&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="tY8pltBx8iJScnm7SV-W-19" value="&lt;font style=&quot;font-size: 12px&quot;&gt;session ends&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="-130" y="-130" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JH4i3yln6pYFjvFVHKKs-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ILnbO-3U45fQJwzotn9N-1" source="JBC-M9yCq-IJpLdvhCJN-1" edge="1">
@@ -504,12 +505,12 @@
             <mxPoint x="-150" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JH4i3yln6pYFjvFVHKKs-2" value="capture input id and&lt;br&gt;&amp;nbsp;upload to db" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JH4i3yln6pYFjvFVHKKs-1" vertex="1" connectable="0">
+        <mxCell id="JH4i3yln6pYFjvFVHKKs-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;capture input id and&lt;br&gt;&amp;nbsp;upload to db&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JH4i3yln6pYFjvFVHKKs-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1385" y="1" relative="1" as="geometry">
             <mxPoint x="-44" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JBC-M9yCq-IJpLdvhCJN-1" value="We only accept pictures associated with some audio. If it is related to previous audio that you submitted, then send the submission id.&amp;nbsp;&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 2 to chat with out team.&lt;/span&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
+        <mxCell id="JBC-M9yCq-IJpLdvhCJN-1" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;We only accept pictures associated with some audio. If it is related to previous audio that you submitted, then send the submission id.&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Press 2 to chat with out team.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Press 0 to return to main menu.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="ILnbO-3U45fQJwzotn9N-1" vertex="1">
           <mxGeometry x="-20" y="340" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
