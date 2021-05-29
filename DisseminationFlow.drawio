@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T05:06:49.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="7fGbAYt1rVaF2jSBI0-D" version="14.7.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-05-29T05:13:55.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="zpg6NoVxWXVs9i6ajiU0" version="14.7.2" type="github" pages="10">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2539,136 +2539,39 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PDF Flow7" id="Uys-m2jvETLaCt27d0cA">
-    <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-0" />
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-1" parent="R3t1Jlp-nywUH2jHyqq6-0" />
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-3" target="R3t1Jlp-nywUH2jHyqq6-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="269" y="-259" />
-              <mxPoint x="269" y="-259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;User starts &lt;br&gt;interaction&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="176.25" y="-340" width="183.75" height="60" as="geometry" />
+          <mxGeometry x="240" y="-1150" width="183.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="R3t1Jlp-nywUH2jHyqq6-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="60" />
-              <mxPoint x="150" y="60" />
+              <mxPoint x="305.01" y="-732.5" />
+              <mxPoint x="305.01" y="-732.5" />
             </Array>
-            <mxPoint x="250" y="120" as="sourcePoint" />
-            <mxPoint x="130" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;audio&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-4">
-          <mxGeometry x="0.34" y="-3" relative="1" as="geometry">
-            <mxPoint x="64" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="R3t1Jlp-nywUH2jHyqq6-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="125" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="433" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;some other&lt;br&gt;&amp;nbsp;text&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-6">
-          <mxGeometry x="-0.1944" relative="1" as="geometry">
-            <mxPoint x="37" y="146" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="R3t1Jlp-nywUH2jHyqq6-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;video&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-8">
-          <mxGeometry x="0.4106" y="3" relative="1" as="geometry">
-            <mxPoint x="29" y="-14" as="offset" />
+            <mxPoint x="405.01" y="-672.5" as="sourcePoint" />
+            <mxPoint x="285.01" y="-762.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
           <mxGeometry x="0.0435" y="10" relative="1" as="geometry">
-            <mxPoint x="316" y="60" as="sourcePoint" />
-            <mxPoint x="410" y="67.5" as="targetPoint" />
+            <mxPoint x="351.13" y="-660" as="sourcePoint" />
+            <mxPoint x="445.13" y="-652.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="60" />
-              <mxPoint x="320" y="68" />
+              <mxPoint x="355.13" y="-660" />
+              <mxPoint x="355.13" y="-652" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="R3t1Jlp-nywUH2jHyqq6-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="20" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="320" y="132" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-11">
-          <mxGeometry x="0.5378" y="2" relative="1" as="geometry">
-            <mxPoint x="-16" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="R3t1Jlp-nywUH2jHyqq6-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="20" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="320" y="188" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-13">
-          <mxGeometry x="0.6467" y="-1" relative="1" as="geometry">
-            <mxPoint x="-18" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="R3t1Jlp-nywUH2jHyqq6-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Contact Card&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-15">
-          <mxGeometry x="0.5118" y="3" relative="1" as="geometry">
-            <mxPoint x="20" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Msg Type&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="240" y="20" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-19" target="R3t1Jlp-nywUH2jHyqq6-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-30" y="95" />
-              <mxPoint x="-30" y="130" />
-              <mxPoint x="260" y="130" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="271.25" y="-772.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-19" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px&quot;&gt;Thank you for sharing&amp;nbsp;your audio! It has been received by our moderators for broadcasting.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="-145" y="27.5" width="230" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-30" y="130" />
-              <mxPoint x="50" y="130" />
-            </Array>
-            <mxPoint x="-30" y="190" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="20" y="-765" width="180" height="65" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
           <mxGeometry relative="1" as="geometry">
@@ -2679,7 +2582,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-23" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;Welcome to main menu of X WhatsApp.&amp;nbsp;&lt;/span&gt;&lt;span&gt;You can invite your peers to receive your stories by forwarding this link:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://wa.me/918050068000?text=Hi&quot;&gt;https://wa.me/911...000?text=Hi&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;You can submit an audio/image or video to broadcast.&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;You can send contact card to receive stories submitted by that number&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;or press:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1.&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;to listen to recent stories submitted by the user with a particular phone number.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;2. to receive status of recent stories submitted by you&lt;/font&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3 to listen to a recent story.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="55" y="-260" width="410" height="190" as="geometry" />
+          <mxGeometry x="125" y="-1070" width="410" height="190" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
           <mxGeometry relative="1" as="geometry">
@@ -2706,30 +2609,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-30" target="R3t1Jlp-nywUH2jHyqq6-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="195" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Welcome to main menu of X WhatsApp. &amp;nbsp;You can invite your peers to receive your stories by forwarding this link:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://wa.me/918050068000?text=Hi&quot; style=&quot;font-size: 14px&quot;&gt;https://wa.me/911...000?text=Hi&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;You can submit an audio/image or video to broadcast.&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;You can send contact card to receive stories submitted by that number&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;or press:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1.&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;to listen to recent stories submitted&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;by the user with a particular phone number.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2. to receive status of recent stories submitted by you.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3 to listen to a recent story.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;align=center;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="360" y="307" width="280" height="235" as="geometry" />
-        </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-31" value="&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px&quot;&gt;Thank you for sharing&amp;nbsp;your video! It has been received by our moderators for broadcasting.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="-150" y="180" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" target="R3t1Jlp-nywUH2jHyqq6-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="228.76" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="313" />
-            </Array>
-            <mxPoint x="240" y="70" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;image&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-32">
-          <mxGeometry x="-0.3862" y="3" relative="1" as="geometry">
-            <mxPoint x="-42" y="134" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="20" y="-670" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-41" target="R3t1Jlp-nywUH2jHyqq6-39">
           <mxGeometry relative="1" as="geometry" />
@@ -2743,106 +2624,45 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Thanks! Pls sent the related audio.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="70" y="270" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="130" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="210" y="-575" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;your image was not recorded because you did not send audio.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="-155.01" y="390" width="125.01" height="80" as="geometry" />
+          <mxGeometry x="14.99" y="-450" width="125.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;No&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-41" target="R3t1Jlp-nywUH2jHyqq6-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="530" as="targetPoint" />
+            <mxPoint x="25.00999999999999" y="-262.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-41" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;5 min window&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;expires&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="-40.000000000000014" y="265" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="490" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="90" y="-580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Thanks for sharing story with image!&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="30" y="390" width="140" height="80" as="geometry" />
+          <mxGeometry x="150" y="-447.5" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-45" target="R3t1Jlp-nywUH2jHyqq6-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-45" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Enjoy this latest story!&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;a link to the latest story&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="144" y="-40" width="270" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-47" target="R3t1Jlp-nywUH2jHyqq6-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="10" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="425" />
-              <mxPoint x="760" y="20" />
-              <mxPoint x="340" y="20" />
-              <mxPoint x="340" y="40" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-47" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Enjoy this recent story!&lt;br&gt;&amp;lt;a link to the latest story&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="680" y="360" width="70" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-48" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Here are the recent stories submitted by the user.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="417" y="230" width="197" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="188" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;Enjoy this recent story!&lt;br&gt;&lt;/font&gt;&lt;font&gt;&amp;lt;a link to the latest story&amp;gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="417" y="170" width="210" height="35" as="geometry" />
+          <mxGeometry x="176.25" y="-850" width="270" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Please enter a phone number in next 10 minutes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="414" y="32.5" width="120" height="70" as="geometry" />
+          <mxGeometry x="446.25" y="-691.25" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-52" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Here is the status of the recent stories submitted by you.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="414" y="110" width="210" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="132" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="132" />
-            </Array>
-            <mxPoint x="585" y="175" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="66" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="438.88" y="-583" width="210" height="43" as="geometry" />
         </mxCell>
         <mxCell id="R3t1Jlp-nywUH2jHyqq6-55" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Here are the recent stories submitted by the user.&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
-          <mxGeometry x="614.5" y="30" width="115.5" height="72.5" as="geometry" />
+          <mxGeometry x="606.25" y="-692.5" width="100" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-51" target="R3t1Jlp-nywUH2jHyqq6-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534" y="66" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="R3t1Jlp-nywUH2jHyqq6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-52" target="R3t1Jlp-nywUH2jHyqq6-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-57" value="&lt;font style=&quot;font-size: 14px&quot;&gt;text &lt;br&gt;received&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R3t1Jlp-nywUH2jHyqq6-56">
-          <mxGeometry x="0.0543" y="3" relative="1" as="geometry">
-            <mxPoint x="-3" y="-18" as="offset" />
-          </mxGeometry>
+        <mxCell id="R3t1Jlp-nywUH2jHyqq6-63" value="&lt;font style=&quot;font-size: 14px ; text-align: center&quot;&gt;Enjoy this recent story!&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px ; text-align: center&quot;&gt;&amp;lt;a link to the latest story&amp;gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
+          <mxGeometry x="438.88" y="-514" width="210" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="R3t1Jlp-nywUH2jHyqq6-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="260" />
-              <mxPoint x="720" y="260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="R3t1Jlp-nywUH2jHyqq6-64" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Here are the recent stories submitted by the user.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
+          <mxGeometry x="438.88" y="-435" width="210" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
