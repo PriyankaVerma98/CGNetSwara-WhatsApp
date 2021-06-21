@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T11:08:11.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="wTxCYd3YdX1oOCCFtB9x" version="14.7.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-06-21T08:03:05.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="LSG6G21dtk0IS0GErBHQ" version="14.7.3" type="github" pages="11">
   <diagram id="u3M3MH3VRPwEhxvUo-A4" name="DisseminationFlow">
     <mxGraphModel dx="2013" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2632,7 +2632,7 @@
             <mxPoint x="400" y="-658" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uevWeikQ6xNXtR9XyR9D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="uevWeikQ6xNXtR9XyR9D-0">
+        <mxCell id="uevWeikQ6xNXtR9XyR9D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="R3t1Jlp-nywUH2jHyqq6-1" source="R3t1Jlp-nywUH2jHyqq6-17" target="uevWeikQ6xNXtR9XyR9D-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="-408" />
@@ -2811,16 +2811,27 @@
         <mxCell id="GDwbu_lzy5dJYyQ5sNfO-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; text-decoration: none ; display: inline ; float: none&quot;&gt;Contact card&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="R3t1Jlp-nywUH2jHyqq6-1" vertex="1">
           <mxGeometry x="408.75" y="-347" width="84.25" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="uevWeikQ6xNXtR9XyR9D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="R3t1Jlp-nywUH2jHyqq6-1" source="uevWeikQ6xNXtR9XyR9D-0">
+        <mxCell id="uevWeikQ6xNXtR9XyR9D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="R3t1Jlp-nywUH2jHyqq6-1" source="uevWeikQ6xNXtR9XyR9D-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="-408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uevWeikQ6xNXtR9XyR9D-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Here&#39;s one of the closest stories we could find &amp;lt;story link&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
+        <mxCell id="uevWeikQ6xNXtR9XyR9D-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Here&#39;s one of the closest stories we could find &amp;lt;story link&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="R3t1Jlp-nywUH2jHyqq6-1" vertex="1">
           <mxGeometry x="525.75" y="-440" width="154.25" height="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="uevWeikQ6xNXtR9XyR9D-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Current location&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="R3t1Jlp-nywUH2jHyqq6-1">
+        <mxCell id="uevWeikQ6xNXtR9XyR9D-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Current location&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="R3t1Jlp-nywUH2jHyqq6-1" vertex="1">
           <mxGeometry x="402.88" y="-430" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aiXPvvklWUDgy5kLQqOQ" name="phone">
+    <mxGraphModel dx="1071" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="t7cdCAbgR_J4Mp32HQeO-0" />
+        <mxCell id="t7cdCAbgR_J4Mp32HQeO-1" parent="t7cdCAbgR_J4Mp32HQeO-0" />
+        <mxCell id="t7cdCAbgR_J4Mp32HQeO-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=#000000;" vertex="1" parent="t7cdCAbgR_J4Mp32HQeO-1">
+          <mxGeometry x="200" y="24" width="200" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
