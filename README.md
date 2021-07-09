@@ -1,4 +1,6 @@
-# WhatsApp-Swara
+# WhatsApp-Swara  
+![wa2](https://user-images.githubusercontent.com/39693183/125063670-63126700-e0cd-11eb-8121-e1f99918b558.png)
+
 Use of WhatsApp to receive and disseminate content for CGNet Swara portal
 
 
