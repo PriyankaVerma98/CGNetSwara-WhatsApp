@@ -1,14 +1,11 @@
 # WhatsApp-Swara  
-![wa2](https://user-images.githubusercontent.com/39693183/125063670-63126700-e0cd-11eb-8121-e1f99918b558.png)
 
 Use of WhatsApp to receive and disseminate content for CGNet Swara portal
 
-
-
 ### Deployment
-![dark_video_image_](https://user-images.githubusercontent.com/39693183/119817475-a80e7f80-bf0b-11eb-8f46-7b0ce36b0e8e.jpg)
+![main_menu_image](https://user-images.githubusercontent.com/39693183/125064245-12e7d480-e0ce-11eb-8e3a-c57dcd2b1d3c.jpg)
 
-![dark_menu_contactcard_](https://user-images.githubusercontent.com/39693183/119817575-c5434e00-bf0b-11eb-84ea-970b853b9c0e.jpg)
+![send_stories_status](https://user-images.githubusercontent.com/39693183/125064238-10857a80-e0ce-11eb-9449-5ee9566794de.jpg)
 
 
 ------
