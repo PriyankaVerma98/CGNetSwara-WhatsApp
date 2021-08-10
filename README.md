@@ -21,7 +21,7 @@ The bot is designed with minimal number of steps and without requiring any textu
 -	By typing 2, user can receive status of their most recent submissions.
 -	By typing 3, user can receive a recent random story.
 
-### Deplyment Results
+### Deployment Results
 In the first 7 weeks of deployment, the bot has demonstrated high usability and received around 400 stories, of which 140 were published online on social media and NGO’s website. The stories comprise of basic governance issues such as a broken road, a defunct handpump or unpaid wages, impact reports, incidents of violence and cultural songs creating a rich repository of their traditions. Hence, it is an empowering way to scale up voices of marginalized communities. 
 
 <img src="https://user-images.githubusercontent.com/39693183/125064245-12e7d480-e0ce-11eb-8e3a-c57dcd2b1d3c.jpg" height="600" /> <img src="https://user-images.githubusercontent.com/39693183/125064238-10857a80-e0ce-11eb-9449-5ee9566794de.jpg" height="600" />
