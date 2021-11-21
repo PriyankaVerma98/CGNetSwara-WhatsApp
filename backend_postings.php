@@ -331,11 +331,19 @@ for ($i=0; $i<$rowcount; $i++) {
         $link_video = $showtable[$i]['video_file'];
     
     if(!veryempty($showtable[$i]['video_link']) ){
-        //embed the yt link 
-
-        $video_id = strrchr($showtable[$i]['video_link'], '=');
-        $video_id= substr($video_id,1);
-        // echo "video id ". $video_id." .done";
+        
+        // echo "YT link: ".$showtable[$i]['video_link']." .done";
+        $YT_LINK = $showtable[$i]['video_link'];
+        $pos = strpos($YT_LINK, '=');
+        if($pos === false){
+            $index_of_last_slash = strrpos($YT_LINK,"/");
+            $video_id= substr($YT_LINK,$index_of_last_slash+1);
+        }
+        else {
+            $video_id= substr($YT_LINK,$pos+1);
+        }
+        
+       // echo "video id = ". $video_id." .done";
         echo "<td>" ;
         echo "<iframe width=\"150\" src=\"https://www.youtube.com/embed/".$video_id."\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>" ; 
         echo "</td>\n";
@@ -352,11 +360,11 @@ for ($i=0; $i<$rowcount; $i++) {
     }
     
         
-     //echo "<td>yt link: ".gettype($showtable[$i]['video_link'])."</td>";
+     //echo "<td>yt link type : ".gettype($showtable[$i]['video_link'])."</td>";
     // else 
        //  echo "<td> <a href=\"".$link_video."\"> video link </a> </td>\n";
        // echo "<td> <video controls style=\"width:200px;\"> <source src=\"".$link_video."\" type=\"video/mp4\"> </video></td>\n";
-       //  echo "<td>yt link: ".$showtable[$i]['video_link']."</td>";
+       // echo "<td>yt link: ".$showtable[$i]['video_link']."</td>";
         // echo "<td> <video controls style=\"width:150px;\"> <source src=\"".$link_video."\" type=\"video/mp4\"> </video></td>\n";
 
     // <a href=\"index.php?page=comments&amp;posting_id=".$showtable[$i]['id']."\" title = \"Link to comments\">[Comments]</a>";

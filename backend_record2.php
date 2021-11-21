@@ -50,9 +50,11 @@ if ($_GET['do'] == "browser") {
 }
 
 if($_GET['do']=="browser_video"){
+	
   if(isset($_GET['id'])){
+  	//echo "in browser_video if condition\n";
     $edit_id_video = upload_browser_video($_GET['id']);
-    echo "back to upload brower video \n" ;
+    //echo "back to upload brower video \n" ;
 
   }
   else{
@@ -551,11 +553,11 @@ if(false and getuserrights("admin"))  {
           // echo "\" />\n";
         }
         else{  //okay, we use the classic php method for uploading!
-          // echo "in else condition" ;
-          echo "<br><input required form=\"upload-form3\" button=\"hallo\" id=\"choosefile\" type=\"file\" name=\"fileupload_video\" accept=\"video/*\" /> \n";
-          echo "<br><input form=\"upload-form3\" type=\"submit\" value=\"Upload Video\" />\n";
-        } 
-      }
+          	//echo "else condition in backend_Record2" ;
+          	echo "<br><input required form=\"upload-form3\" button=\"hallo\" id=\"choosefile\" type=\"file\" name=\"fileupload_video\" accept=\"video/*\" /> \n";
+          	echo "<br><input form=\"upload-form3\" type=\"submit\" value=\"Upload Video\" />\n";
+        	} 
+  	  }
 
       // if(isset($_POST['submit_yt_link'])){
       //   $yt_link = $_POST['yt_link'];
@@ -575,8 +577,18 @@ if(false and getuserrights("admin"))  {
       if(isset($result[0])){
         $yt_link = $result[0]['video_link'];
         // echo "yt link: ".$yt_link.".ok \n";
-        $video_id = strrchr($yt_link, '=');
-        $video_id= substr($video_id,1);
+
+        $pos = strpos($yt_link, '=');
+        if($pos === false){
+            $index_of_last_slash = strrpos($yt_link,"/");
+            $video_id= substr($yt_link,$index_of_last_slash+1);
+        }
+        else {
+            $video_id= substr($yt_link,$pos+1);
+        }
+
+        // $video_id = strrchr($yt_link, '=');
+        // $video_id= substr($video_id,1);
        // echo "video id ". $video_id." .done";
         echo "<h3>YouTube video </h3>";
         echo "<iframe width=\"300\" src=\"https://www.youtube.com/embed/".$video_id."\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>" ; 
