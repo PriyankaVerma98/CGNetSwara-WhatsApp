@@ -1,7 +1,7 @@
 ## A WhatsApp Bot for Citizen Journalism in Rural India
 I pursued this project at CGNet Swara, in collaboration with **Mircosoft Research** and Voicedeck Technologies, for fulfillment of my thesis (BITS F422) at BITS Pilani, India during spring 2021. I designed, developed and deployed a chat bot to enable low-literate, rural communities of Chattisgrah, India to report and receive journalism reports. Following review by moderators, reports are published on a website and social media sites, and can also be browsed interactively using the WhatsApp bot. The deployed system has shown high acceptance, and is presently in use by the NGO and rural communities. 
 
-- [Paper](https://drive.google.com/file/d/1v0cU2ZyEy1IYrxyX9lQ2sypHaChQp8wQ/view)
+- [Paper](https://dl.acm.org/profile/99659884302)
 - [Thesis Grade](https://drive.google.com/file/d/1yu0-LjbKRSuIYBpHsGMM6F2QRLYOb-C9/view?usp=sharing)
 - [Presentation at ACM COMPASS'21](https://youtu.be/t_QsbcMS7Vg?t=717)
 
